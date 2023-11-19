@@ -80,5 +80,5 @@ function cuentaRegresiva(tiempoFaltante,mensaje){
 
 //console.log(obtenerTiempoFaltante('Dec 25 2023 00:00:00 GMT-0500'))//
 
-cuentaRegresiva('Nov 18 2023 23:18:00 GMT-0500','¡Feliz Navidad!')
+cuentaRegresiva('Nov 19 2023 02:01:00 GMT-0500','¡Feliz Navidad!')
 
